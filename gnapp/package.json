@@ -1,0 +1,14 @@
+{
+  "name": "gnapp",
+  "version": "1.0.0",
+  "description": "Good Neighbor",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
